@@ -2,7 +2,7 @@
 Welcome to the Stratify Digital Agency website repository. This responsive, modern, and visually appealing website is designed to showcase services, testimonials, and contact information for a digital agency. It includes sections such as a banner, services, about, testimonials, social media links, and a footer with a newsletter subscription.
 
 **Features**
-Responsive Design: Fully responsive layout optimized for mobile (max-width: 480px) and desktop views.
+Responsive Design: Fully responsive layout optimized for mobile and desktop views.
 Smooth Scrolling: Seamless navigation between sections using smooth-scroll functionality.
 Interactive Footer: Includes contact information, quick links, and a newsletter subscription form.
 Services Section: Highlights the main services offered with visually appealing cards.
